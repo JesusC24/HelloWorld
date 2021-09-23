@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="btn_change_msg">Cambia Texto</string>
+    <string name="tv_message">Esto es un mensaje</string>
+    <string name="msg_caracola">Hola mundo!!</string>
+</resources>

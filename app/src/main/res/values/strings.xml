@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="btn_change_msg">Change Text</string>
+    <string name="tv_message">This is a message</string>
+    <string name="msg_caracola">Hello world!!</string>
+
+</resources>
